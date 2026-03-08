@@ -4,8 +4,8 @@
  This version is from **before July 2021** (<v202107). Enjoy it!  
  **Play Link**: https://1224huangjin.github.io/v.202107_PvZTR/  
  If you wish to use this, please follow **The Changjiang River License**:  
- - [English License](https://github.com/1224Huangjin/v.202107_PvZTR/LICENSE-ENGLISH.md)  
- - [License Repository](https://github.com/jiangnangame/The-Changjiang-River-License?tab=License-2-ov-file)  
+ - [English ChangJiang License](https://github.com/1224HuangJin/v.202107_PvZTR?tab=License-2-ov-file)  
+ - [Official ChangJiang License Repository](https://github.com/jiangnangame/The-Changjiang-River-License?tab=License-2-ov-file)  
 > [!WARNING]
 > Disclaimer: All content comes from [Jiangnan Development Group](https://github.com/jiangnangame). If any member of the development group requests removal, I will immediately delete it.  
 
@@ -15,8 +15,8 @@
  此版本为**2021年7月之前的版本** (<202107)。玩得开心！  
  **游玩地址**：https://1224huangjin.github.io/v.202107_PvZTR/  
  若您要使用此版本，请遵循**长江开源协议**：  
- - [中文协议](https://github.com/1224Huangjin/v.202107_PvZTR/LICENSE-CHINESE.md)  
- - [协议仓库](https://github.com/jiangnangame/The-Changjiang-River-License?tab=License-1-ov-file)  
+ - [中文长江协议](https://github.com/1224HuangJin/v.202107_PvZTR?tab=License-1-ov-file)
+ - [官方长江协议仓库](https://github.com/jiangnangame/The-Changjiang-River-License?tab=License-1-ov-file)  
 > [!WARNING]
 > 免责声明：所有内容来自[江南开发社](https://github.com/jiangnangame)。若有任何开发组成员要求删除，本人将立即删除。
 
